@@ -35,7 +35,7 @@
 
 ### 6. Requisitos
 
-#### 6.1 Requisitos de Negócio (RN)
+#### 6.1 Regras de Negócio (RN)
 
 #### 6.2 Requisitos Funcionais (RF)
 
