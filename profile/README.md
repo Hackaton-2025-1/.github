@@ -4,8 +4,9 @@
 
 ### 1. Introdução
 
-Frontend - 
-Backend - 
+**Frontend** -
+
+**Backend** - 
 
 ---
 
